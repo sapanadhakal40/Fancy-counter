@@ -29,6 +29,13 @@ main {
   align-items: center;
 }
 
+/* main:has(.card--limit) {
+  background: red;
+} */
+.main--limit {
+  background: red;
+}
+
 .card {
   background-color: #bef227;
   width: 476px;
